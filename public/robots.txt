@@ -1,0 +1,3 @@
+Sitemap: https://betulerdogan.com/sitemap.xml
+User-agent: *
+Disallow:

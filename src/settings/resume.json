@@ -1,0 +1,146 @@
+{
+    "basics": {
+        "name": "Betul Erdogan",
+        "label": "Android Developer",
+        "email": "hey@betulerdogan.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "jl.png",
+        "x_title": "Hey, I'm",
+        "job": "Android Developer",
+        "description": "Hey, I'm Betul Erdogan, a Android Developer based in Ankara, Turkey. I love all android world. Talk soon!",
+        "summary": "based in Ankara, Turkey.",
+        "keywords": "personal,website,portfolio,template,kit,betul,erdogan,betulerdogan,computer,science,ankara,turkey,android,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://betulerdogan.com",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Ankara",
+            "country": "Turkey",
+            "countryCode": "TR",
+            "region": "Ankara"
+        },
+        "profiles": [
+            {
+                "network": "Mail",
+                "username": "hey@betulerdogan.com",
+                "url": "mailto:hey@betulerdogan.com",
+                "x_icon": "fa fa-envelope"
+            },
+            {
+                "network": "Outlook",
+                "username": "betul-erdogan@outlook.com",
+                "url": "mailto:betul-erdogan@outlook.com",
+                "x_icon": "fab fa-windows"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "betulerdogan",
+                "url": "https://www.linkedin.com/in/betulerdogan/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "Twitter",
+                "username": "betuelerdogan",
+                "url": "https://twitter.com/betuelerdogan",
+                "x_icon": "fab fa-twitter"
+            },
+            {
+                "network": "Telegram",
+                "username": "betuelerdogan",
+                "url": "https://t.me/betuelerdogan",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "GitHub",
+                "username": "betulerdogan",
+                "url": "https://github.com/betulerdogan",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Medium",
+                "username": "betulerdogan.medium.com",
+                "url": "https://betulerdogan.medium.com",
+                "x_icon": "fab fa-medium"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Param",
+            "position": "Android Developer",
+            "website": "http://param.com.tr",
+            "startDate": "2019-07-24",
+            "endDate": "2020-08-27",
+            "summary": "Responsible for implementing new feature and maintaining existing applications for Android. Develop finance applications from start to finish with JAVA .",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Cumhuriyet University",
+            "area": "Management Information Systems",
+            "studyType": "Bachelor",
+            "startDate": "2015-09-17",
+            "endDate": "2020-07-07",
+            "gpa": "3.12",
+            "courses": ["Android/Java Yaz Kampı - TBD","Android Eğitimi - Turkcell Geleceği Yazanlar"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Android Development",
+            "level": "Junior/Intermediate",
+            "keywords": ["Kotlin", "Java"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Professional speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Beginner"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
