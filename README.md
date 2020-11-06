@@ -21,7 +21,7 @@ Kudos to [Cody Bennett](https://github.com/CodyJasonBennett), [José Coelho](htt
 
 ## Customization
 
-Feel free to fork this project and customize it with your own information and style.
+Contact me if you want customization this project.
 
 Refer to the [Material UI docs](https://material-ui.com/customization/theming/) for guidance on how to quickly customize the themes, components and colors to suit your tastes.
 
