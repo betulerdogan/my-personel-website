@@ -6,8 +6,9 @@ import Resume from "../../settings/resume.json";
 const useStyles = makeStyles((theme) => ({
     footerText: {
         position: "absolute",
-        bottom: theme.spacing(6),
-        left: theme.spacing(6),
+        bottom: theme.spacing(4),
+        left: theme.spacing(4),
+        color:theme.palette.secondary.main,
         "&:hover": {
             color: theme.palette.primary.main,
         },
@@ -33,8 +34,8 @@ export const FooterText = () => {
                 className={classes.footerText}
             >
                 <Typography variant="body1">
-                    <i className="fas fa-code fa-sm" /> at{" "}
-                    <i className="fas fa-moon fa-sm" /> by {Resume.basics.name}
+                    <i className="fas fa-code fa-heart" />{" "}
+                     with love
                 </Typography>
             </Link>
         </Tooltip>

@@ -5,11 +5,11 @@
         "email": "hey@betulerdogan.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
-        "x_title": "Hey, I'm",
+        "x_title": "Hi, I'm",
         "job": "Android Developer",
-        "description": "Hey, I'm Betul Erdogan, a Android Developer based in Ankara, Turkey. I love all android world. Talk soon!",
+        "description": "Hi, I'm Betül Erdoğan, Android Developer based in Ankara, Turkey. I love all android world. Talk soon!",
         "summary": "based in Ankara, Turkey.",
-        "keywords": "personal,website,portfolio,template,kit,betul,erdogan,betulerdogan,computer,science,ankara,turkey,android,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "keywords": "betül,erdoğan,personal,website,portfolio,template,kit,betul,erdogan,betulerdogan,computer,science,ankara,turkey,android,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
         "url": "https://betulerdogan.com",
         "location": {
             "address": "XX XXXXXstreet",
@@ -40,8 +40,8 @@
             },
             {
                 "network": "Twitter",
-                "username": "betuelerdogan",
-                "url": "https://twitter.com/betuelerdogan",
+                "username": "hibetul",
+                "url": "https://twitter.com/hibetul",
                 "x_icon": "fab fa-twitter"
             },
             {

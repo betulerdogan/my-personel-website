@@ -6,8 +6,8 @@ import Resume from "../../settings/resume.json";
 const useStyles = makeStyles((theme) => ({
     footerIcons: {
         position: "absolute",
-        top: theme.spacing(6),
-        right: theme.spacing(6),
+        top: theme.spacing(4),
+        right: theme.spacing(4),
     },
     iconButton: {
         height: "2.5rem",

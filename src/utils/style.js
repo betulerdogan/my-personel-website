@@ -8,7 +8,7 @@ export const media = {
   laptop: 1280,
   tablet: 1024,
   mobile: 696,
-  mobileS: 320,
+  mobileS: 300,
 };
 
 /**
